@@ -1,0 +1,10 @@
+/* Add hover effect for the dropdown options */
+/* Add hover effect for the dropdown options */
+.custom-select-container .dropdown .dropdown-item:hover,
+.custom-select-container .dropdown .dropdown-item:focus {
+  background-color: blue;
+  color: white;
+}
+.btn{
+    width: 148px;
+}
